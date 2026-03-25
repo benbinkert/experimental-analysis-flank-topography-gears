@@ -1,0 +1,35 @@
+# LaTeX source and class/bib files
+*.tex
+*.bib
+*.cls
+*.bst
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.notes
+
+# Python / IDE / OS
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.DS_Store
+
+# Private / excluded project folders
+Data/
+Bilder/
+Notizen/
+
+# out: nur PDFs erlauben
+out/*
+!out/*.pdf

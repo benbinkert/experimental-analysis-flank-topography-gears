@@ -1,0 +1,69 @@
+{
+  "filtercase": "gesamt",
+  "alpha_fdr": 0.1,
+  "rho_threshold": 0.7,
+  "min_n": 6,
+  "clusters": [
+    {
+      "id": 7,
+      "params": [
+        "Sa",
+        "Sk",
+        "Sq",
+        "Sxp",
+        "Vmc",
+        "Vvc"
+      ]
+    },
+    {
+      "id": 6,
+      "params": [
+        "Sv",
+        "Svk",
+        "Sz",
+        "Vvv"
+      ]
+    },
+    {
+      "id": 5,
+      "params": [
+        "Sp",
+        "Spk",
+        "Vmp"
+      ]
+    },
+    {
+      "id": 1,
+      "params": [
+        "Sku",
+        "Str"
+      ]
+    },
+    {
+      "id": 2,
+      "params": [
+        "Smrk2",
+        "Ssk"
+      ]
+    },
+    {
+      "id": 4,
+      "params": [
+        "Sdq",
+        "Sdr"
+      ]
+    },
+    {
+      "id": 3,
+      "params": [
+        "Smrk1"
+      ]
+    },
+    {
+      "id": 8,
+      "params": [
+        "Sal"
+      ]
+    }
+  ]
+}
